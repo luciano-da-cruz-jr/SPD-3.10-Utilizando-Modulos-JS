@@ -2,7 +2,7 @@
 
 ### ✏️ Introdução do Javascript (Javascript Introduction) 📚⏳🤔😉
 
-Neste repositório contém liçoes praticas relacionadas a Módulos em Javascript. (This repository contains practical lessons related to Object Orientation in Javascript.)
+Neste repositório contém liçoes praticas relacionadas a Módulos em Javascript. (This repository contains practical lessons related to Javascript Modules.)
 
 ### Links úteis (Useful links)
 + https://dio.me (Bootcamp in mode Courses)
